@@ -13,7 +13,7 @@ const Navbar = () => {
                 <Link to="/calculator" className ="nav-link">Calculator</Link>
             </div>
         </div>
-    </nav>
+    </nav><br/>
     </>
   );
 };
